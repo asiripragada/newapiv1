@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 asgiref==3.5.2
 async-timeout==4.0.2
 certifi==2022.9.24
