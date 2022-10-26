@@ -1,0 +1,7 @@
+{
+"Price_per_promo" : 80,
+"lower_guardrail" : 0.3,
+"upper_guardrail" : 0.3,
+"Incremental_Spend" : 1000000,
+"Step_size" : 1
+}

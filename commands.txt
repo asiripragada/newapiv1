@@ -1,0 +1,15 @@
+pip install django
+pip install pandas
+pip install numpy
+pip install tqdm
+pip install djangorestframework
+
+
+##### to run the program, on terminal write ####
+
+python manage.py(copy path) makemigrations
+python manage.py(copy path) migrate
+python manage.py(copy path) runserver
+
+#### note ###
+in test_api.py file copy excel file's path 
